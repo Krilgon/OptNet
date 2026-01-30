@@ -21,6 +21,18 @@ The system is designed to visualize both:
 
 ---
 
+## Usage
+
+Generate Network graph using GraphGenerator.exe,
+Generate best path for this graph using GA.exe,
+
+Start local python server from Powershell with next commands:
+- cd (Directory of this project)
+- py -m http.server
+Then go to the page of local server to see visualization.
+
+---
+
 ## Key Features
 
 ### Interactive Network Visualization
